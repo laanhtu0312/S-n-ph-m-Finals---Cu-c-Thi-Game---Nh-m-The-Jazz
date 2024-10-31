@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: d2e2d8d707101d441a3feda5921c79ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inside_C_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 437
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a856f316ad527488a0db0609eeca4a
+      internalID: 270013198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 441
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6696a8ee7d4fc4e9b71177ad93b932
+      internalID: -552940018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_60
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 428
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42da7818da301f4bbb279bfc6ccf417
+      internalID: 746225637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 394
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0cf58f92b1fd54a93ddf6b3528e58a
+      internalID: -1260967594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 349
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940479a7022afef4987df74c3e61bcb0
+      internalID: -90213413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_C_126
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 245
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3eaa8bc80d9d0418449489564a3ed8
+      internalID: 588735477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Inside_C_0: 1516488813
+      Inside_C_1: -1886499254
+      Inside_C_10: 273774422
+      Inside_C_100: -1063433142
+      Inside_C_101: -1822287889
+      Inside_C_102: -18212099
+      Inside_C_103: -1845381205
+      Inside_C_104: 299204646
+      Inside_C_105: -1240298430
+      Inside_C_106: -738083401
+      Inside_C_107: -83164729
+      Inside_C_108: 118379798
+      Inside_C_109: 881379747
+      Inside_C_11: 1927784161
+      Inside_C_110: 1924567293
+      Inside_C_111: -1663175335
+      Inside_C_112: 1547646928
+      Inside_C_113: 502416572
+      Inside_C_114: 892918539
+      Inside_C_115: -1443586734
+      Inside_C_116: -1690002362
+      Inside_C_117: -1338567007
+      Inside_C_118: -1945586534
+      Inside_C_119: 1073757613
+      Inside_C_12: -962693751
+      Inside_C_120: -194679567
+      Inside_C_121: 305704106
+      Inside_C_122: -876642807
+      Inside_C_123: -1127140669
+      Inside_C_124: -1260643336
+      Inside_C_125: 1483935486
+      Inside_C_126: 588735477
+      Inside_C_127: 323141627
+      Inside_C_128: -879735924
+      Inside_C_129: 348436940
+      Inside_C_13: -290809599
+      Inside_C_130: 188219751
+      Inside_C_131: -642799453
+      Inside_C_132: 36984185
+      Inside_C_133: -481106857
+      Inside_C_134: 662391894
+      Inside_C_135: -631948794
+      Inside_C_136: -948413241
+      Inside_C_137: 1843518283
+      Inside_C_138: 774280234
+      Inside_C_139: 1869980316
+      Inside_C_14: 1837904006
+      Inside_C_140: 2008125211
+      Inside_C_141: -904851912
+      Inside_C_142: -1957441412
+      Inside_C_143: -1748865550
+      Inside_C_144: 2127508217
+      Inside_C_145: -255120543
+      Inside_C_146: 2008462315
+      Inside_C_147: 1168855560
+      Inside_C_148: 1063091322
+      Inside_C_149: 2089054081
+      Inside_C_15: -1144631774
+      Inside_C_150: 171463443
+      Inside_C_151: -496443555
+      Inside_C_152: -1171063572
+      Inside_C_153: 1103972555
+      Inside_C_154: 764661511
+      Inside_C_155: 872770169
+      Inside_C_156: -574042025
+      Inside_C_157: -512684193
+      Inside_C_158: 1435589262
+      Inside_C_159: 1312251400
+      Inside_C_16: -774952335
+      Inside_C_160: 435409594
+      Inside_C_161: 2026834531
+      Inside_C_162: 1354982269
+      Inside_C_163: -2067472579
+      Inside_C_164: -285151389
+      Inside_C_165: -1682266367
+      Inside_C_17: 191850749
+      Inside_C_18: 1046272349
+      Inside_C_19: 1223601537
+      Inside_C_2: 757871152
+      Inside_C_20: 935590674
+      Inside_C_21: -51860094
+      Inside_C_22: -1750422154
+      Inside_C_23: 727770780
+      Inside_C_24: 1446809822
+      Inside_C_25: 995552550
+      Inside_C_26: -2051292584
+      Inside_C_27: -1764094915
+      Inside_C_28: -2042220351
+      Inside_C_29: -1554423274
+      Inside_C_3: 2135568669
+      Inside_C_30: -522623157
+      Inside_C_31: 53870079
+      Inside_C_32: -1604214726
+      Inside_C_33: -1420366147
+      Inside_C_34: 1478483275
+      Inside_C_35: -1298119000
+      Inside_C_36: 1026217553
+      Inside_C_37: -1450285626
+      Inside_C_38: -354347922
+      Inside_C_39: 668588026
+      Inside_C_4: 966845777
+      Inside_C_40: -338171314
+      Inside_C_41: -1829187663
+      Inside_C_42: -192202127
+      Inside_C_43: -1635232883
+      Inside_C_44: -1015164085
+      Inside_C_45: -1994841956
+      Inside_C_46: 1241562346
+      Inside_C_47: -294465912
+      Inside_C_48: -1248598217
+      Inside_C_49: 439135214
+      Inside_C_5: 77172850
+      Inside_C_50: 94545636
+      Inside_C_51: 79040316
+      Inside_C_52: 270013198
+      Inside_C_53: -552940018
+      Inside_C_54: -1787143384
+      Inside_C_55: -853509553
+      Inside_C_56: -1157242441
+      Inside_C_57: 103884510
+      Inside_C_58: 366632063
+      Inside_C_59: 1442900738
+      Inside_C_6: 926510891
+      Inside_C_60: 746225637
+      Inside_C_61: -1503160416
+      Inside_C_62: 1413247795
+      Inside_C_63: 631229358
+      Inside_C_64: -1039561520
+      Inside_C_65: 142864022
+      Inside_C_66: -1640541521
+      Inside_C_67: -336104854
+      Inside_C_68: 1501078157
+      Inside_C_69: -947998697
+      Inside_C_7: -1148419013
+      Inside_C_70: 1679085704
+      Inside_C_71: -1073391378
+      Inside_C_72: 2000653260
+      Inside_C_73: -1004342923
+      Inside_C_74: 744585625
+      Inside_C_75: 624782070
+      Inside_C_76: -1260967594
+      Inside_C_77: 324527715
+      Inside_C_78: -294563221
+      Inside_C_79: 626924208
+      Inside_C_8: 109760555
+      Inside_C_80: 1514194704
+      Inside_C_81: -1163502486
+      Inside_C_82: -868868243
+      Inside_C_83: -702589421
+      Inside_C_84: -1950099156
+      Inside_C_85: -638813567
+      Inside_C_86: -755229516
+      Inside_C_87: 325782857
+      Inside_C_88: 351818403
+      Inside_C_89: -1232807958
+      Inside_C_9: -693577029
+      Inside_C_90: -1176014941
+      Inside_C_91: 235937736
+      Inside_C_92: 554554897
+      Inside_C_93: 163593308
+      Inside_C_94: 280258873
+      Inside_C_95: -202652799
+      Inside_C_96: -1923930684
+      Inside_C_97: -90213413
+      Inside_C_98: -1623779014
+      Inside_C_99: 768886587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
