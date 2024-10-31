@@ -1,0 +1,809 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\character\\playerhitreaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\playerhitreaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\parameters\\hungercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parameters\\hungercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|e:\\2d-farming-game-main (2)\\game nhom the jazz\\assets\\daycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\daycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|e:\\2d-farming-game-main (2)\\game nhom the jazz\\assets\\healthload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\healthload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\parameters\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parameters\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\character\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\monsterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\monsterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\monsterspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\monsterspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\monsterhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\monsterhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\monstercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\monstercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|e:\\2d-farming-game-main (2)\\game nhom the jazz\\assets\\guncontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\guncontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\toolbar\\toolbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\toolbar\\toolbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\inventory\\inventorybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventorybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\inventory\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\tree\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tree\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\inventory\\inventorypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventorypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\inventory\\itemcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\itemcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\inventory\\seedcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\seedcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\inventory\\itempanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\itempanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\toolscharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\toolscharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\toolbar\\itemtoolbarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\toolbar\\itemtoolbarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|e:\\2d-farming-game-main (2)\\game nhom the jazz\\assets\\guncontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\guncontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\bulletcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\inventory\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\loadscene3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\loadscene3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\quanlydangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\quanlydangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\quanlydangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\quanlydangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\loadscene2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\loadscene2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\hophoithoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\hophoithoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\chesthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chesthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\shop\\ui_shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\ui_shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\shop\\shoptriggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop\\shoptriggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\character\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\firecamp\\campfirereaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firecamp\\campfirereaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\moneycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moneycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\markermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\markermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\cropsreadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cropsreadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\cropsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cropsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\assets\\scripts\\tilemapreadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78BB0BA-4023-BC97-3141-2A13D7679635}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemapreadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Daycheck.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Daycheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Daycheck.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Daycheck.cs",
+              "RelativeToolTip": "Assets\\Daycheck.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:20:01.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Healthload.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Healthload.cs",
+              "RelativeDocumentMoniker": "Assets\\Healthload.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Healthload.cs",
+              "RelativeToolTip": "Assets\\Healthload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:16:07.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Guncontroll.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Guncontroll.cs",
+              "RelativeDocumentMoniker": "Assets\\Guncontroll.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Guncontroll.cs",
+              "RelativeToolTip": "Assets\\Guncontroll.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:52:15.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Parameters\\HealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Parameters\\HealthController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Parameters\\HealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Parameters\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:56:10.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HungerController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Parameters\\HungerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Parameters\\HungerController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Parameters\\HungerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Parameters\\HungerController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:57:21.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerHitReaction.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Character\\PlayerHitReaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\PlayerHitReaction.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Character\\PlayerHitReaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\PlayerHitReaction.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:43:12.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ToolbarController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Toolbar\\ToolbarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Toolbar\\ToolbarController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Toolbar\\ToolbarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Toolbar\\ToolbarController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:49:15.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Monsterattack.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Monsterattack.cs",
+              "RelativeDocumentMoniker": "Assets\\Monsterattack.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Monsterattack.cs",
+              "RelativeToolTip": "Assets\\Monsterattack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:55:13.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "monsterspawn.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\monsterspawn.cs",
+              "RelativeDocumentMoniker": "Assets\\monsterspawn.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\monsterspawn.cs",
+              "RelativeToolTip": "Assets\\monsterspawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:30:54.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Character\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\CameraMovement.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Character\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\CameraMovement.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:16:04.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bulletcontroller.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\bulletcontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\bulletcontroller.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\bulletcontroller.cs",
+              "RelativeToolTip": "Assets\\bulletcontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:21:38.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "monsterhealth.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\monsterhealth.cs",
+              "RelativeDocumentMoniker": "Assets\\monsterhealth.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\monsterhealth.cs",
+              "RelativeToolTip": "Assets\\monsterhealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:10:55.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Monstercontroller.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Monstercontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Monstercontroller.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Monstercontroller.cs",
+              "RelativeToolTip": "Assets\\Monstercontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:01:47.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "monstercontrol.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\monstercontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\monstercontrol.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\monstercontrol.cs",
+              "RelativeToolTip": "Assets\\monstercontrol.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:21:18.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InventoryButton.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\InventoryButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventoryButton.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\InventoryButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InventoryButton.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:37:19.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InventoryPanel.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\InventoryPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventoryPanel.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\InventoryPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InventoryPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:42:54.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Playershooting.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Playershooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Playershooting.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Playershooting.cs",
+              "RelativeToolTip": "Assets\\Playershooting.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:45:11.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Item.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:52:52.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PickUpItem.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Tree\\PickUpItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tree\\PickUpItem.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Tree\\PickUpItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tree\\PickUpItem.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:41:57.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ItemContainer.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\ItemContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\ItemContainer.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\ItemContainer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\ItemContainer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:29:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeedContainer.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\SeedContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\SeedContainer.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\SeedContainer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\SeedContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:29:12.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ItemToolbarPanel.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Toolbar\\ItemToolbarPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Toolbar\\ItemToolbarPanel.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Toolbar\\ItemToolbarPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Toolbar\\ItemToolbarPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:44:21.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ToolsCharacterController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\ToolsCharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToolsCharacterController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\ToolsCharacterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToolsCharacterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:07:14.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ItemPanel.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\ItemPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\ItemPanel.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\ItemPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\ItemPanel.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:27:19.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Guncontroll.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Guncontroll.cs",
+              "RelativeDocumentMoniker": "Assets\\Guncontroll.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Guncontroll.cs",
+              "RelativeToolTip": "Assets\\Guncontroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:46:31.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Bulletcontrol.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Bulletcontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Bulletcontrol.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Bulletcontrol.cs",
+              "RelativeToolTip": "Assets\\Bulletcontrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:47:46.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:58:55.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventoryController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Inventory\\InventoryController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InventoryController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:34:03.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "loadscene2.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\loadscene2.cs",
+              "RelativeDocumentMoniker": "Assets\\loadscene2.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\loadscene2.cs",
+              "RelativeToolTip": "Assets\\loadscene2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:51:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "tokenmanager.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\tokenmanager.cs",
+              "RelativeDocumentMoniker": "Assets\\tokenmanager.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\tokenmanager.cs",
+              "RelativeToolTip": "Assets\\tokenmanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:58:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "loadscene3.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\loadscene3.cs",
+              "RelativeDocumentMoniker": "Assets\\loadscene3.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\loadscene3.cs",
+              "RelativeToolTip": "Assets\\loadscene3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:10:49.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "quanlydangky.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\quanlydangky.cs",
+              "RelativeDocumentMoniker": "Assets\\quanlydangky.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\quanlydangky.cs",
+              "RelativeToolTip": "Assets\\quanlydangky.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:00:00.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "loadscene.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\loadscene.cs",
+              "RelativeDocumentMoniker": "Assets\\loadscene.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\loadscene.cs",
+              "RelativeToolTip": "Assets\\loadscene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:39:41.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "quanlydangnhap.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\quanlydangnhap.cs",
+              "RelativeDocumentMoniker": "Assets\\quanlydangnhap.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\quanlydangnhap.cs",
+              "RelativeToolTip": "Assets\\quanlydangnhap.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:05:06.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Board.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Board.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Board.cs",
+              "RelativeToolTip": "Assets\\Board.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:01:22.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:31:36.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UI_ShopController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Shop\\UI_ShopController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop\\UI_ShopController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Shop\\UI_ShopController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop\\UI_ShopController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:23:54.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Character\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\PlayerControl.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Character\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\PlayerControl.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:20:51.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShopTriggerController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Shop\\ShopTriggerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop\\ShopTriggerController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\Shop\\ShopTriggerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop\\ShopTriggerController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:05:44.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:38:11.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:38:47.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CampFireReaction.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\FireCamp\\CampFireReaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireCamp\\CampFireReaction.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\FireCamp\\CampFireReaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireCamp\\CampFireReaction.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:42:26.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "hophoithoai.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\hophoithoai.cs",
+              "RelativeDocumentMoniker": "Assets\\hophoithoai.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\hophoithoai.cs",
+              "RelativeToolTip": "Assets\\hophoithoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:06:07.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChestHit.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\ChestHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChestHit.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\ChestHit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChestHit.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:46:54.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MoneyController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\MoneyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoneyController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\MoneyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoneyController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:37:56.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MarkerManager.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\MarkerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MarkerManager.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\MarkerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MarkerManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:27:02.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CropsReadController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\CropsReadController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CropsReadController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\CropsReadController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CropsReadController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAABQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:19:12.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CropsManager.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\CropsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CropsManager.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\CropsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CropsManager.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAAGkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:18:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TileMapReadController.cs",
+              "DocumentMoniker": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\TileMapReadController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TileMapReadController.cs",
+              "ToolTip": "E:\\2D-Farming-Game-main (2)\\Game nhom The Jazz\\Assets\\Scripts\\TileMapReadController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TileMapReadController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:18:05.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
